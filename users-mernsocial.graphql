@@ -1,5 +1,0 @@
-APOLLO_KEY=service:mernsocial:G9XWSdEu0KAaJ9CBmaMExg \
-  rover subgraph publish mernsocial@current \
-  --schema ./users-mernsocial.graphql \
-  --name users-mernsocial \
-  --routing-url http://products.prod.svc.cluster.local:4001/graphql
