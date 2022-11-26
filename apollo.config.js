@@ -3,3 +3,4 @@ module.exports = {
     service: "my-graphql-app"
   }
 };
+
