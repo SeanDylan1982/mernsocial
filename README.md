@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d01675ee-fb36-4bc9-b728-8d46ea404086/deploy-status)](https://app.netlify.com/sites/merng-social-basic/deploys)
+
+https://merng-social-basic.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
